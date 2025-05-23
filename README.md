@@ -7,7 +7,6 @@ This repository contains a comprehensive research project conducted for the **In
 ### 🏆 Key Achievements
 
 - **📱 600+ Apps Analyzed** - Comprehensive fintech application identification and tracking
-- **🤖 95%+ Matching Accuracy** - Hybrid algorithms for app-company relationship identification
 - **📊 5GB+ Dataset** - Multi-year time-series data with thousands of temporal observations
 - **🔧 Advanced Algorithms** - Novel combination of fuzzy and semantic matching techniques
 - **📈 Scalable Infrastructure** - Robust data collection with proxy rotation and error recovery
