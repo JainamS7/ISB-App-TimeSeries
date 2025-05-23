@@ -30,6 +30,8 @@ This repository contains a comprehensive research project conducted for the **In
 - **Wayback Machine Integration**: CDX API for snapshot discovery
 - **Advanced Scraping**: Proxy rotation and adaptive rate limiting
 - **Multi-year Coverage**: Comprehensive temporal data collection
+The HTML Snapshots can be downloaded from the link below
+https://drive.google.com/file/d/1BcG16XowxlKx1e5Iq80AhUVTPfh10Ipu/view?usp=drive_link
 
 ### Phase 4: Data Processing
 
