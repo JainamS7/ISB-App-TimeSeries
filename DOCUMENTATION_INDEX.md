@@ -68,7 +68,7 @@ This repository contains a comprehensive research project that systematically co
 ### Final Output
 
 - **Primary Dataset**: [`Fintech_App_History.csv`](Fintech_App_History.csv) (11MB)
-- **Coverage**: 200+ fintech applications with multi-year historical data
+- **Coverage**: 600+ fintech applications with multi-year historical data
 - **Data Points**: Thousands of temporal observations across ratings, downloads, reviews
 
 ### Intermediate Datasets
@@ -122,7 +122,7 @@ python nlp_semantic_app_company_matcher.py
 ### Phase 1: Application Discovery
 
 - Systematic search using fintech keywords
-- 200+ unique applications identified
+- 600+ unique applications identified
 - Integration with Traxcn company database
 
 ### Phase 2: Company Matching
@@ -233,27 +233,6 @@ python nlp_semantic_app_company_matcher.py
 
 ---
 
-## 🏆 Project Achievements Summary
-
-✅ **200+ Apps Mapped** - Comprehensive fintech application identification  
-✅ **Advanced Algorithms** - Hybrid matching with 95%+ accuracy  
-✅ **Historical Dataset** - Multi-year time-series data reconstruction  
-✅ **Quality Framework** - Multi-validation data quality assurance  
-✅ **Scalable Infrastructure** - Robust and efficient data collection  
-✅ **Research Impact** - Novel methodology and valuable market insights  
-✅ **Complete Documentation** - Comprehensive project documentation with PDFs
-
----
-
-## 📞 Contact Information
-
-**Institution**: Indian School of Business (ISB)  
-**Project Type**: Research Internship  
-**Domain**: Fintech Market Analysis and Data Science
-
-For questions about this research or collaboration opportunities, please refer to the comprehensive documentation provided or contact through appropriate academic channels.
-
----
 
 ## 📁 Repository Structure
 
@@ -297,7 +276,3 @@ apk-scraper/
     ├── documentation_pdf_generator.py          # PDF generation
     └── pdf_table_extractor.py                  # PDF table extraction
 ```
-
----
-
-_This comprehensive research project represents a significant contribution to fintech market analysis and demonstrates advanced capabilities in web scraping, data processing, and analytical methodology._
