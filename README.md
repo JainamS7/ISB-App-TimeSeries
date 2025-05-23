@@ -1,6 +1,5 @@
 # Time-Series Fintech App Data Collection & Analysis
 
-
 ## 🎯 Project Overview
 
 This repository contains a comprehensive research project conducted for the **Indian School of Business (ISB)** that systematically collected and analyzed historical data for **600+ Indian fintech applications**. The project combines advanced web scraping techniques, machine learning algorithms, and data science methodologies to create an unprecedented time-series dataset of fintech app evolution.
@@ -232,7 +231,6 @@ For detailed information, refer to:
 - **[DOCUMENTATION_INDEX.md](DOCUMENTATION_INDEX.md)** - Master documentation index
 - **[docs/](docs/)** - PDF versions of all documentation
 
-
 ## 🎓 Citation
 
 If you use this dataset or methodology in your research, please cite:
@@ -248,8 +246,11 @@ If you use this dataset or methodology in your research, please cite:
 ```
 
 ## 📞 Contact
+
 For questions about this research or collaboration opportunities:
+
 - 📧 Email: jainam7604@gmail.com
+
 ## 🙏 Acknowledgments
 
 - **Indian School of Business (ISB)** for research support and guidance
