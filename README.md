@@ -250,16 +250,3 @@ If you use this dataset or methodology in your research, please cite:
 For questions about this research or collaboration opportunities:
 
 - 📧 Email: jainam7604@gmail.com
-
-## 🙏 Acknowledgments
-
-- **Indian School of Business (ISB)** for research support and guidance
-- **Traxcn** for fintech company database access
-- **Internet Archive** for historical data preservation
-- **Open Source Community** for tools and libraries
-
----
-
-**⭐ Star this repository if you find it useful for your research!**
-
-_This project represents a significant contribution to fintech market research and demonstrates advanced capabilities in web scraping, data processing, and analytical methodology._
