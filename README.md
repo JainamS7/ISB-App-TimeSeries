@@ -232,20 +232,6 @@ For detailed information, refer to:
 - **[DOCUMENTATION_INDEX.md](DOCUMENTATION_INDEX.md)** - Master documentation index
 - **[docs/](docs/)** - PDF versions of all documentation
 
-## 🎓 Citation
-
-If you use this dataset or methodology in your research, please cite:
-
-```bibtex
-@misc{isb_fintech_timeseries_2024,
-  title={Time-Series Fintech App Data Collection and Analysis},
-  author={ISB Research Team},
-  institution={Indian School of Business},
-  year={2024},
-  url={https://github.com/JainamS7/TimeSeriesFintechAppData}
-}
-```
-
 ## 📞 Contact
 
 For questions about this research or collaboration opportunities:
