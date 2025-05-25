@@ -5,7 +5,7 @@ import time
 import requests
 import google.generativeai as genai
 # Set your Gemini API key and endpoint (update these values based on actual API details)
-GEMINI_API_KEY = "AIzaSyByvG4TfWYmrJPguAsC_LyRMiMr1W6CoLY" # or assign directly
+GEMINI_API_KEY = "API_KEY"
 GEMINI_ENDPOINT = "https://api.generativeai.googleapis.com/v1beta2/models/YOUR_MODEL:generateText"  # 
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-2.0-flash-001')
